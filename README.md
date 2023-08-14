@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kushal Shukla</h1>
 <h3 align="center">A passionate frontend developer from India .</h3>
-<img align="right" alt="coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdnl.iconscout.com%2Flottie%2Fpremium%2Fthumb%2Fman-coding-on-laptop-4337847-3618984.gif&tbnid=HcUtQM-D93kJfM&vet=12ahUKEwi38c7U4tuAAxXO6DgGHdMvCI8QMygWegUIARDeAg..i&imgrefurl=https%3A%2F%2Ficonscout.com%2Flotties%2Fprogrammer&docid=jMi3lHdfZu0r7M&w=529&h=334&q=animated%20coding%20gif&ved=2ahUKEwi38c7U4tuAAxXO6DgGHdMvCI8QMygWegUIARDeAg">
+<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw08F1Hv7YhS4SwLqNamF8OG&ust=1692089480583000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqGAoTCLDGjfSY24ADFQAAAAAdAAAAABDwAw">
 <p align="left"> <a href="https://twitter.com/kushalshukla45012" target="blank"><img src="https://img.shields.io/twitter/follow/kushalshukla45012?logo=twitter&style=for-the-badge" alt="kushalshukla45012" /></a> </p>
 
 - 🔭 I’m currently a React.js developer [netflixclone](https://github.com/kushalShukla-web/netflixx)
