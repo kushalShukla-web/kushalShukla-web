@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently a React.js developer [netflixclone](https://github.com/kushalShukla-web/netflixx)
 
-- 🌱 I’m currently learning **Blockchain, cloud native tools .**
+- 🌱 I’m currently learning **cloud native tools .**
 
-- 👯 I’m looking to collaborate on **blockchain repositories**
+- 👯 I’m looking to collaborate on **Cloud Native Tools**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kushalShukla-web?tab=repositories](https://github.com/kushalShukla-web?tab=repositories)
 
