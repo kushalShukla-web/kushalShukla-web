@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kushal Shukla</h1>
 <h3 align="center">A passionate fullstack developer from India .</h3>
 <img align="right" alt="coding" width="400" src="https://thumbs.gfycat.com/AngelicConcreteHypsilophodon-size_restricted.gif">
-<p align="left"> <a href="https://twitter.com/kushalshukla45012" target="blank"><img src="https://img.shields.io/twitter/follow/kushalshukla45012?logo=twitter&style=for-the-badge" alt="kushalshukla45012" /></a> </p>
+<p align="left"> <a href="[https://twitter.com/kushalshukla45012](https://twitter.com/kushalshuk45012)" target="blank"><img src="https://img.shields.io/twitter/follow/kushalshukla45012?logo=twitter&style=for-the-badge" alt="kushalshukla45012" /></a> </p>
 
 - 🔭 I’m currently a React.js developer [netflixclone](https://github.com/kushalShukla-web/netflixx)
 
