@@ -3,9 +3,9 @@
 <img align="right" alt="coding" width="400" src="https://thumbs.gfycat.com/AngelicConcreteHypsilophodon-size_restricted.gif">
 <p align="left"> <a href="https://twitter.com/kushalshuk45012" target="blank"><img src="https://img.shields.io/twitter/follow/kushalshukla45012?logo=twitter&style=for-the-badge" alt="kushalshukla45012" /></a> </p>
 
-- 🔭 I’m currently a React.js developer [netflixclone](https://github.com/kushalShukla-web/netflixx)
-
-- 🌱 I’m currently learning **cloud native tools .**
+- I'm currently contributing to prometheus repository , contributing to remote write and native histogram part .
+  
+- 🌱 I’m currently learning **cloud native tools .**, plus trying to contribute to how to perform exponatial histogram and custom bucket histogram arthematic operation . 
 
 - 👯 I’m looking to collaborate on **Cloud Native Tools**
 
