@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kushalshukla-web" alt="kushalshukla-web" /></a> </p>
 
-- 🌱 I’m currently learning **Golang and contributing to Prometheus opensource repository.**
+- 🌱 I’m currently learning **Golang and contributing to Prometheus and opentelemetery opensource repository.**
 
 - 📝 I regularly write articles on [https://x.com/kushalshuk45012](https://x.com/kushalshuk45012)
 
-- 💬 Ask me about **React, Redux , Node.js, Golang , kubernetes and cloud native technology.**
+- 💬 Ask me about **Golang , kubernetes and cloud native technology.**
 
 - 📫 How to reach me **kushalshukla110@gmail.com**
 
